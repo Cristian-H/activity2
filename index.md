@@ -1,32 +1,39 @@
-All about Capybaras
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>3900 Activity 2 Webpage</title>
+        <style>
+        html {
+font-size: 12 px;
+font-family: Arial;
+background-color: black;
+}
 
-Capybaras are the largest rodents in the world. These rodents can be found in South America. They can range from 77-150 pounds and can reach up to 25 inches tall and almost 4 and a half feet long. They are great swimmers, as they mainly inhabit habitats near bodies of water. They have webbed feet that are perfect for swimming.
+p {
+color: blue;
+border: 2px;
+text-align: center;
+}
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Diet
-    Capybaras are herbivors that graze on grass for food.
-## Lifespan
-    Capybaras can live up to 10 years old.
-### Predators
-     There are several predators of Capybaras, including jaguars and anacondas.
-     
-Where Capybaras can be found:
-
-1. Panama
-2. Colombia
-3. Venezuela
-4. Guyana
-5. Peru
-6. Brazil
-7. Paraguay
-8. Argentina
-9. Uruguay
-
-[https://2.bp.blogspot.com/-e1__gaQz8fw/Uobv-jn36aI/AAAAAAAAFLk/srSymnOIVog/s1600/Capybara-Animals-Pictures.jpg](url)
-<img src ="https://2.bp.blogspot.com/-e1__gaQz8fw/Uobv-jn36aI/AAAAAAAAFLk/srSymnOIVog/s1600/Capybara-Animals-Pictures.jpg" alt="Picture of Capybara">
+img {
+width: 200px;
+}
+        </style>
+        </head>
+        <body>
+        <img src ="https://2.bp.blogspot.com/-e1__gaQz8fw/Uobv-jn36aI/AAAAAAAAFLk/srSymnOIVog/s1600/Capybara-Animals-Pictures.jpg" alt="Picture of Capybara">
+        <p>Capybara's are the largest rodents in the world. These rodents can be found in South America. They can range from 77-150 pounds and can reach up to 25 inches tall and almost 4 and half feet long. They are great swimmers, as they mainly inhabit habitats near bodies of water. They have webbed feet perfect for swimming.</p>
+        <p>Where they can be found:</p>
+        <ol>
+        <li>Panama</li>
+        <li>Colombia</li>
+        <li>Venezuela</li>
+        <li>Guyana</li>
+        <li>Peru</li>
+        <li>Brazil</li>
+        <li>Paraguay</li>
+        <li>Argentina</li>
+        <li>Uruguay</li>
+        </ol>
+        </body>
+</html>
