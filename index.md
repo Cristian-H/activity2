@@ -2,7 +2,7 @@
 <html>
     <head>
          <meta charset="UTF-8">
-        
+        <title>3900 Activity 2 Webpage</title>
         </head>
     <h1>All about Capybaras</h1>
         <body>
