@@ -22,22 +22,4 @@
         </ol>
         </body>
     
-            <style>
-        html {
-font-size: 12 px;
-font-family: Arial;
-background-color: black;
-}
-
-p {
-color: blue;
-border: 2px;
-text-align: center;
-}
-
-img {
-width: 200px;
-}
-        </style>
-    
 </html>
