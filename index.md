@@ -2,24 +2,7 @@
 <html>
     <head>
          <meta charset="UTF-8">
-        <title>3900 Activity 2 Webpage</title>
-        <style>
-        html {
-font-size: 12 px;
-font-family: Arial;
-background-color: black;
-}
-
-p {
-color: blue;
-border: 2px;
-text-align: center;
-}
-
-img {
-width: 200px;
-}
-        </style>
+        
         </head>
     <h1>All about Capybaras</h1>
         <body>
