@@ -2,8 +2,8 @@
 <html lang="en">
     <head>
          <meta charset="UTF-8">
-    </head>
         <title>3900 Activity 2 Webpage</title>
+          </head>
 
         <body>
         <img src ="https://2.bp.blogspot.com/-e1__gaQz8fw/Uobv-jn36aI/AAAAAAAAFLk/srSymnOIVog/s1600/Capybara-Animals-Pictures.jpg" alt="Picture of Capybara">
