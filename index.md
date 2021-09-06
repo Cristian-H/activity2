@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+All about Capybaras
 
-You can use the [editor on GitHub](https://github.com/Cristian-H/activity2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Capybaras are the largest rodents in the world. These rodents can be found in South America. They can range from 77-150 pounds and can reach up to 25 inches tall and almost 4 and a half feet long. They are great swimmers, as they mainly inhabit habitats near bodies of water. They have webbed feet that are perfect for swimming.
 
 ### Markdown
 
@@ -11,19 +9,26 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Diet
+    Capybaras are herbivors that graze on grass for food.
+## Lifespan
+    Capybaras can live up to 10 years old.
+### Predators
+     There are several predators of Capybaras, including jaguars and anacondas.
+     
+Where Capybaras can be found:
 
-- Bulleted
-- List
+1. Panama
+2. Colombia
+3. Venezuela
+4. Guyana
+5. Peru
+6. Brazil
+7. Paraguay
+8. Argentina
+9. Uruguay
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[https://2.bp.blogspot.com/-e1__gaQz8fw/Uobv-jn36aI/AAAAAAAAFLk/srSymnOIVog/s1600/Capybara-Animals-Pictures.jpg](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
