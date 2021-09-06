@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+         <meta charset="UTF-8">
         <title>3900 Activity 2 Webpage</title>
         <style>
         html {
@@ -20,6 +21,7 @@ width: 200px;
 }
         </style>
         </head>
+    <h1>All about Capybaras</h1>
         <body>
         <img src ="https://2.bp.blogspot.com/-e1__gaQz8fw/Uobv-jn36aI/AAAAAAAAFLk/srSymnOIVog/s1600/Capybara-Animals-Pictures.jpg" alt="Picture of Capybara">
         <p>Capybara's are the largest rodents in the world. These rodents can be found in South America. They can range from 77-150 pounds and can reach up to 25 inches tall and almost 4 and half feet long. They are great swimmers, as they mainly inhabit habitats near bodies of water. They have webbed feet perfect for swimming.</p>
