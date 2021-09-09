@@ -3,6 +3,7 @@
     <head>
          <meta charset="utf-8">
         <title>3900 Activity 2 Webpage</title>
+        <link 
     </head>
         <body>
              <h1>All about Capybaras</h1>
