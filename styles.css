@@ -1,0 +1,25 @@
+html {
+font-size: 12 px;
+font-family: Arial;
+background-color: orange;
+}
+
+h1 {
+color: yellow;
+text-shadow: 2px 2px 2px black;
+padding: 10px 0;
+}
+
+p {
+color: blue;
+border: 2px;
+text-align: center;
+}
+
+ol {
+color: red;
+}
+
+img {
+width: 700px;
+}
